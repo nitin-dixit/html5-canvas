@@ -1,0 +1,16 @@
+html {
+  background: #101820ff;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+}
+#clear{
+  border-radius: 10%;
+  padding: 2px 20px;
+  background-color: #FEE715FF;
+  color:#101820FF;
+  font-size: 15px;
+  
+}
